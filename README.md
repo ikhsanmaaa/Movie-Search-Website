@@ -21,7 +21,7 @@ This project uses the [OMDb API](https://www.omdbapi.com/) to fetch movie data.
 - CSS3
 - JavaScript
 - jQuery
-- Bootstrap (optional if you're using it for styling)
+- Bootstrap
 
 ## What I Learned
 
